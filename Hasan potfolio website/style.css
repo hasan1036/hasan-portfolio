@@ -1,0 +1,233 @@
+#icon_area{
+    padding: 10px 10px;
+    align-items: center;
+}
+#icon_area .col-md-5 h1{
+    transform: translateX(40%);
+    color: #000000;
+}
+#icon_area ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-left: 40%;
+}
+#icon_area a{
+    text-decoration: none;
+}
+#icon_area span{
+    color: #eb1212;;
+}
+#icon_area .col-md-6 h1{
+    color: #000;
+    margin-left: 100px;
+}
+#icon_area ul li{
+    float: left;
+ margin-top: 10px;
+padding-left: 10px;
+}
+#icon_area ul li i{
+    background-color: #000000;
+    border-radius: 50% 50%;
+    width: 40px;
+    padding-top: 8px;
+    color: #fff;
+    height: 35px;
+    text-align: center;
+    transition: 0.5s;
+}
+#icon_area .fa-facebook:hover{
+    background-color: #3B5998
+}
+#icon_area .fa-twitter:hover{
+    background-color: #00ACEE;
+}
+#icon_area .fa-linkedin:hover{
+    background-color: #0072B1;
+}
+#icon_area .fa-instagram:hover
+{
+    background-color: #cb2ae0
+}
+
+
+.navbar-expand-lg .navbar-nav .nav-link{
+ transform: translateX(180px);
+    font-size: 1.4rem;
+    position: relative;
+    
+
+   
+}
+
+
+
+.nav-item a{
+    color: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+   color: #eb1212;
+   font-size: 25px;
+  
+}
+.navbar-expand-lg .navbar-nav .nav-link.active{
+
+color: #000;
+}
+#banner_area .item img{
+    width: 1068px;
+    height: 450px;
+}
+/*text*/
+#text_area{
+    padding: 15px 15px;
+    align-items: center;
+    border-bottom: 3px solid #ccc7c7;
+}
+#text_area p{
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    font-weight: 500;
+}
+/*service area*/
+.ser_text{
+    text-align: center;
+    padding: 10px 10px;
+ margin-left: 20%;
+}
+.ser_text span{
+    color: #eb1212;;
+}
+
+#service_area .card{
+    background-color: aquamarine;
+
+}
+#service_card .card-title{
+    font-size: 18px;
+    color: rgb(240, 141, 28);
+
+    font-weight: bold;
+
+}
+#service_card h5{
+    color:  rgb(240, 141, 28);
+
+font-size: 18px;
+font-weight: bold;
+}
+#service_card p{
+    font-size: 14px;
+    color: #000;
+}
+/*project area*/
+
+#project_area{
+    padding: 20px 20px;
+    align-items: center;
+}
+#project_area h1{
+    text-align: center;
+    margin-left: 300px
+}
+#project_area span{
+color: #eb1212;;
+
+}
+#project_card .card-title{
+    color: rgb(240, 141, 28);
+    font-size: 18px;
+    text-align: center;
+}
+/*about area*/
+#about_area{
+ padding-top: 50px;
+ padding-bottom: 30px;
+    align-items: center;
+}
+#about_area h1{
+    text-align: center;
+    margin-left: 300px;
+}
+#about_area  span{
+ color: #eb1212;;
+}
+#about img{
+   
+    border: 5px solid #eb1212;
+}
+#about h2{
+    color: rgb(240, 141, 28);
+}
+#about h3{
+    color: rgb(240, 141, 28); 
+}
+/*contact*/
+#contact_area{
+    padding-top: 50px;
+    padding-bottom: 30px;
+       align-items: center;
+}
+#contact_area h1{
+    text-align: center;
+    margin-left: 300px;
+}
+#contact_area span{
+    color: #eb1212;;
+}
+#contact i{
+    font-size: 50px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+#contact .card{
+    padding: 30px 40px;
+}
+#contact .card .fa-map-marker{
+    color: rgb(172, 41, 41);
+}
+#contact .card  .fa-phone{
+    color: rgb(13, 235, 50);
+}
+#contact .card  h1{
+    color: #fff;
+}
+#contact .card-body{
+    margin-top: 15px;
+    background-color: #eb1212;
+}
+#contact .card{
+    border: 3px solid cadetblue;
+}
+#contact .card-body P{
+    color: #fff;
+}
+#footer_area{
+    padding: 50px 0px;
+    align-items: center;
+    
+    
+}
+#footer_area h1{
+    margin-left: 350px;
+    color: #eb1212;
+    font-size: 50px;
+}
+
+#footer_area p{
+    margin-left: 170px;
+    font-size: 30px;
+}
+#copyright{
+    
+    margin-top: 0px;
+
+    align-items: center;
+    
+}
+#copyright p{
+    margin-left: 200px;
+    font-size: 20px;
+}
